@@ -297,7 +297,7 @@ a{
 {
     width: 90%;
     height: 550px;
-    background-image: url(./projects/Project1.png);
+    background-image: url(WhatsApp\ Image\ 2025-08-28\ at\ 10.08.58_b72cc9fc.jpg);
     background-size: cover;
     /* background-repeat: no-repeat; */
     position:relative;
@@ -402,18 +402,18 @@ a{
     border: none;
 }
 #project1{
-background-image: url(./projects/WhatsApp\ Image\ 2025-08-28\ at\ 10.08.58_b72cc9fc.jpg);
+background-image: url(WhatsApp\ Image\ 2025-08-28\ at\ 10.08.58_b72cc9fc.jpg);
 }
 #project2{
     margin: 120px;
-background-image: url(./projects/Screenshot\ 2025-08-28\ 100845.png);
+background-image: url(Screenshot\ 2025-08-28\ 100845.png);
 }
 #project3{
-background-image: url(./projects/passwordgenerator.jpg);
+background-image: url(passwordgenerator.jpg);
 }
 #project4{
     margin: 120px;
-background-image: url(./projects/astroimg.jpg);
+background-image: url(astroimg.jpg);
 }
 
 .skills-container{
@@ -581,3 +581,4 @@ footer{
 .link-wrapper div a:hover {
     color: #E84949;
 }
+
